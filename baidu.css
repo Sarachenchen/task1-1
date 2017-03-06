@@ -1,0 +1,54 @@
+body {
+    font: 12px arial;
+}
+
+
+/*头部*/
+
+header {
+    overflow: hidden;
+}
+
+header nav {
+    width: 425px;
+    float: right;
+    margin-top: 16px;
+}
+
+header nav a {
+    margin-left: 15px;
+    color: #000;
+    font-weight: bold;
+}
+
+
+/*主体部分*/
+article {
+    text-align: center;
+}
+
+.text {
+    width: 540px;
+    height: 37px;
+}
+
+.submit {
+    width: 100px;
+    height: 41px;
+    background-color: #3385ff;
+    color: #fff;
+    border: 1px solid #3385ff;
+}
+
+
+/*底部信息*/
+
+footer {
+    text-align: center;
+    padding-top: 90px;
+    color: #999;
+}
+
+footer a {
+    color: #999;
+}
